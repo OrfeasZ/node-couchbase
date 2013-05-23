@@ -33,4 +33,4 @@ Notes
 * The client currently only uses the first of the specified hosts for accessing the bucket stream and does not reconnect on failure (however, bucket-specific connections should reconnect on failure).
 * When setting the value of a document you can provide an object, a string or a number.
 * This is still an alpha version and bugs are expected to occur. Feel free to fork it and submit bug reports.
-* Performance wise it currently performs ~11.5 times faster than [couchnode](https://github.com/couchbase/couchnode).
+* Performance wise it currently performs ~11.5 times faster than [couchnode](https://github.com/couchbase/couchnode) (benchmarked against version 0.0.12).
