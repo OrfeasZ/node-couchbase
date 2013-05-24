@@ -3,7 +3,7 @@ node-couchbase
 
 A **Couchbase** client for node.js in pure JavaScript.
 
-Current Version: **0.1.3-alpha**
+Current Version: **0.1.4-alpha**
 
 Basic Installation
 ----------------------------

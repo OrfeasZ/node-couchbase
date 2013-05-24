@@ -1,6 +1,6 @@
 {
     "name": "node-couchbase",
-    "version": "0.1.3-alpha",
+    "version": "0.1.4-alpha",
     "author": "Orfeas Zafeiris <orfeaz@gmail.com>",
     "description": "A Couchbase client for node.js in pure JavaScript.",
     "main": "./lib/cbClient.js",
